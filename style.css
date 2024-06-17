@@ -12,3 +12,15 @@ body{
 .conteudo-titulo{
     text-align: center;
 }
+.conteudo-senha{
+    margin-top:80px;
+    background-color:rgb(42, 105, 223);
+    padding: 24px;
+}
+.conteudo{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.cadeado{
+    width: 30%;
+}
